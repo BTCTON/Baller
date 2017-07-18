@@ -14,3 +14,5 @@ The script using the Clarifai API can be run by doing
 python predict.py
 ```
 in the terminal.
+
+Note: Don't forget to change the path in the file to the image you want. Also, being that it is an API it can classify much more than the different types of balls that I had originally built my classifier for.
