@@ -1,4 +1,4 @@
-# Hoops
+# Ballifier
 
 Hoops is a way for the computer determine what kind of ball is shown - whether it is a tennis ball, basketball, soccer ball or baseball. 
 
