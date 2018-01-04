@@ -1,6 +1,6 @@
-########## Classifier using the Clarifai API for fun ########################
+########## Classifier using the Clarifai API 
 
-## Can be used for anything not just the different types of balls as the functions are provided by Clarifai and are well trained! #######
+
 from clarifai import rest
 from clarifai.rest import ClarifaiApp
 from clarifai.rest import Image as ClImage
