@@ -5,7 +5,7 @@ from clarifai import rest
 from clarifai.rest import ClarifaiApp
 from clarifai.rest import Image as ClImage
 
-app = ClarifaiApp(api_key='{gotta get ur own}')
+app = ClarifaiApp(api_key='{}')
 
 model = app.models.get('general-v1.3')
 
